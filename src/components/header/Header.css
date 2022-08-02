@@ -1,0 +1,21 @@
+.header {
+    height: 80px;
+    background-color: #f2efdc;
+}
+
+.navList {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navItem {
+    padding: 0 16px;
+}
+
+h1 {
+    font-size: 32px;
+    cursor: pointer;
+}

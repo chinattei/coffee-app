@@ -1,0 +1,14 @@
+.inputPost {
+    margin-bottom: 16px;
+}
+
+.coffeeName {
+    font-size: 16px;
+    line-height: 32px;
+}
+.coffeeNameInput {
+    width: 30%;
+    border: 1px solid #1b2538;
+    border-radius: 4px;
+    outline: none;
+}
